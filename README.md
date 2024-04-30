@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://github.com/eijess/eijess/assets/120491040/f8797f62-5152-4ce5-8c90-8e476ad584d2" />
+    <img src="https://github.com/eijess/eijess/assets/120491040/d618ceab-b8cc-43cc-ae40-9b3b0cf5906b" />
 </h1>
 
 <h3 align="center">A passionate software developer from Brazil. 🇧🇷</h3>
